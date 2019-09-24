@@ -12,6 +12,7 @@ metaModels = Surrogate(Input, Output)
 * 'Output'  is a dataframe of the output functions (eg. 'f')
 
 metaModels.train(kernel='multiquadric', smooth=0.8)
+
 if smooth is equal to 0.0, the neural network is interpolating.
 
 
