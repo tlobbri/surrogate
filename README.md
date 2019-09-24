@@ -1,6 +1,6 @@
 # Introduction
 
-surrogate.py is a script in order to Interpolate/approximate a database using 
+surrogate.py is a script that enables to interpolate or approximate a database using 
 neural network based on pandas dataframe and scipy RBF function.
 The script also computes the ANAOVA decomposition
 
