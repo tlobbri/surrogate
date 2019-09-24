@@ -18,6 +18,7 @@ if smooth is equal to 0.0, the neural network is interpolating.
 In order to evaluate the the meta-model the any parameter combination :
 
 fmodel.append(metaModels.eval('f', {'x_1':x,'x_2':y,'x_3' : z}))
+
 where, (x,y,z) are the numeric values of the respective parmeter
 
 In order to compute the ANOVA decomposition
