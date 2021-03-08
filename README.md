@@ -2,7 +2,7 @@
 
 surrogate.py is a script that enables to interpolate or approximate a database using
 neural network. This exploits pandas dataframe and scipy RBF function.
-The script also computes the ANAOVA decomposition
+The script also computes the ANOVA decomposition
 
 
 # Usage
